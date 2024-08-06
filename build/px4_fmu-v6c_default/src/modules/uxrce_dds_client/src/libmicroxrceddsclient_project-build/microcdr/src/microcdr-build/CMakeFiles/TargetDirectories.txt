@@ -1,0 +1,7 @@
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/install/strip.dir
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/install/local.dir
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/install.dir
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/list_install_components.dir
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/rebuild_cache.dir
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/edit_cache.dir
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/CMakeFiles/microcdr.dir

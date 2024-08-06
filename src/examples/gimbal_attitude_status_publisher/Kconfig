@@ -1,0 +1,7 @@
+menuconfig EXAMPLES_GIMBAL_ATTITUDE_STATUS_PUBLISHER
+    bool "Gimbal Attitude Status Publisher"
+    default n
+    ---help---
+        This module publishes gimbal device attitude status to UORB.
+
+

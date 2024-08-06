@@ -1,0 +1,17 @@
+# ninja log v5
+0	56	1722429568395962903	ucdr-prefix/src/ucdr-stamp/ucdr-mkdir	ac93cfd6ddcdc0a7
+56	71	1722429568411968257	ucdr-prefix/src/ucdr-stamp/ucdr-download	5d8ee0e0caf1ce85
+71	86	1722429568423972271	ucdr-prefix/src/ucdr-stamp/ucdr-patch	ae6228678edf3e2e
+71	86	1722429568423972271	ucdr-prefix/src/ucdr-stamp/ucdr-update	93fd57810e8ce7de
+86	112	1722429568451981640	ucdr-prefix/src/ucdr-stamp/ucdr-configure	148ef5ff9ce1878b
+0	23	1722429568483992346	CMakeFiles/microcdr.dir/src/c/types/string.c.obj	5bf5f127df80b92
+0	47	1722429568508000377	CMakeFiles/microcdr.dir/src/c/common.c.obj	b4ffab835f8365fe
+1	114	1722429568576023129	CMakeFiles/microcdr.dir/src/c/types/sequence.c.obj	4243c6c033ec124f
+0	163	1722429568624039189	CMakeFiles/microcdr.dir/src/c/types/array.c.obj	6d9ee7225245a87a
+0	409	1722429568872122168	CMakeFiles/microcdr.dir/src/c/types/basic.c.obj	9809345fa2cd7974
+409	421	1722429568884126183	libmicrocdr.a	34f92d41052bad5b
+112	551	1722429568892128860	ucdr-prefix/src/ucdr-stamp/ucdr-build	e8504626b3e425be
+551	566	1722429568904132875	ucdr-prefix/src/ucdr-stamp/ucdr-install	e6d73f65f9e6e975
+566	588	1722429568928140904	CMakeFiles/ucdr-complete	f0a73baf98c9ec8d
+566	588	1722429568928140904	ucdr-prefix/src/ucdr-stamp/ucdr-done	f0a73baf98c9ec8d
+0	10	0	CMakeFiles/install.util	1147a84d3fc1bf6f

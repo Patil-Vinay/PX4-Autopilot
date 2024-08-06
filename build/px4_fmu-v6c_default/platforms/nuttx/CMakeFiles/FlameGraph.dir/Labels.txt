@@ -1,0 +1,13 @@
+# Target labels
+ FlameGraph
+# Source files and their labels
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/platforms/nuttx/CMakeFiles/FlameGraph
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/platforms/nuttx/CMakeFiles/FlameGraph.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/platforms/nuttx/CMakeFiles/FlameGraph-complete.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-install.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-mkdir.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-download.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-update.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-patch.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-configure.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/FlameGraph/FlameGraph-build.rule

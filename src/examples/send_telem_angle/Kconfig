@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_SEND_TELEM_ANGLE
+	bool "Send Telem Angle"
+	default n
+	---help---
+		Enable the send_telem_velo example application.

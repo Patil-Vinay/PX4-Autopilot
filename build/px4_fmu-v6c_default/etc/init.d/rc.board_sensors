@@ -1,0 +1,12 @@
+board_adc start
+bmi055 -A -R 4 -s start
+bmi055 -G -R 4 -s stop
+icm42688p -A -R 6 -s start
+icm42688p -G -R 6 -s stop
+ms5611 -X -b 4 -a 0x77 start
+ist8310 -X -b 4 -a 0xc  start
+ist8310 -X -b 1 -R 10 start
+set UART_FOG_DEV /dev/ttyS1
+set UART_FOG_BAUD 921600
+stty -F ${UART_FOG_DEV} ${UART_FOG_BAUD}
+fog_driver -d ${UART_FOG_DEV} -b ${UART_FOG_BAUD} start

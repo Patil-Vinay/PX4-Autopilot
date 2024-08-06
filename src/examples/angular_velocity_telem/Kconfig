@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_ANGULAR_VELOCITY_TELEM
+	bool "Angular Velocity Telemetry"
+	default n
+	---help---
+		This module publishes vehicle angular velocity data to the TELEM2 port.

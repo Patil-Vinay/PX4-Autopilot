@@ -1,0 +1,7 @@
+menuconfig DRIVERS_FOG_DRIVER
+	bool "FOG Driver"
+	default n
+	---help---
+		Enable support for VehicleAngularVelocity CAN driver
+
+

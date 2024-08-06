@@ -1,0 +1,5 @@
+menuconfig DRIVERS_WORK_ITEM_FOG
+	bool "work_item_fog"
+	default n
+	---help---
+		Enable support for work_item_fog

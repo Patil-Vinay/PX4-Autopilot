@@ -1,0 +1,13 @@
+# Target labels
+ px4io_firmware_build
+# Source files and their labels
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/drivers/px4io/CMakeFiles/px4io_firmware_build
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/drivers/px4io/CMakeFiles/px4io_firmware_build.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/src/drivers/px4io/CMakeFiles/px4io_firmware_build-complete.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-install.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-mkdir.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-download.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-update.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-patch.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-configure.rule
+/home/vinay/Downloads/PX4-Autopilot/build/px4_fmu-v6c_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-build.rule

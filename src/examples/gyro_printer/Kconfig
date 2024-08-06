@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_GYRO_PRINTER
+    bool "gyro_printer"
+    default n
+    ---help---
+        Enable support for gyro_printer

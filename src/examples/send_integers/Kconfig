@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_SEND_INTEGERS
+	bool "Send Integers Example"
+	default n
+	---help---
+		Enable the send_integers example application.

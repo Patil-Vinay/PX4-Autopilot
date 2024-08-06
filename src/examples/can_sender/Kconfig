@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_CAN_SENDER
+    bool "can_sender"
+    default n
+    ---help---
+        Enable support for can_sender

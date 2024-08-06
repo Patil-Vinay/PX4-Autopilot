@@ -1,0 +1,7 @@
+menuconfig DRIVERS_VEHICLE_ANGULAR_VELOCITY_CAN
+	bool "vehicle_angular_velocity_can"
+	default n
+	---help---
+		Enable support for VehicleAngularVelocity CAN driver
+
+

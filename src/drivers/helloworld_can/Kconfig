@@ -1,0 +1,6 @@
+menuconfig DRIVERS_HELLOWORLD_CAN
+	bool "helloworld_can"
+	default n
+	---help---
+		Enable support for HelloWorld CAN driver
+

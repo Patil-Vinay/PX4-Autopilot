@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_STABILISATION
+    bool "stabilisation"
+    default n
+    ---help---
+        Enable support for stabilisation
